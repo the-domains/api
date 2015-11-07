@@ -4,21 +4,21 @@
         <description><![CDATA[API]]></description>
         <link>https://thegrid.ai/api/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 22:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 22:19:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/api/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World of API's is on The Grid]]></title>
+            <description><![CDATA[<article><h1>The World of API's is on The Grid</h1><p>This is the first post on the Grid AI system</p></article>]]></description>
+            <link>https://thegrid.ai/api/the-world-of-apis-is-on-the-grid/index.html</link>
+            <guid isPermaLink="false">44ad0a9c-857f-4bab-8ca6-7ae775764d3e</guid>
+            <pubDate>Sat, 07 Nov 2015 22:18:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
             <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://www.algolia.com/assets/flat2/algolia/algolia1200x500_15Q2-1e287111c3e277c60ab350b24c0c3fce.png"></article>]]></description>
             <link>https://www.algolia.com/</link>
             <guid isPermaLink="false">7d763697-46d9-43c9-b8ce-9002b46f9f6a</guid>
             <pubDate>Sat, 07 Nov 2015 22:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World of API's is on The Grid]]></title>
-            <description><![CDATA[<article><h1>The World of API's is on The Grid</h1><p>This is the first post on the Grid AI system</p></article>]]></description>
-            <link>https://thegrid.ai/api/the-world-of-apis-is-on-the-grid/index.html</link>
-            <guid isPermaLink="false">44ad0a9c-857f-4bab-8ca6-7ae775764d3e</guid>
-            <pubDate>Sat, 07 Nov 2015 22:17:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
