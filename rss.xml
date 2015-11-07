@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[API]]></title>
         <description><![CDATA[API]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/api/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 22:29:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 22:14:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/api/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
+            <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://www.algolia.com/assets/flat2/algolia/algolia1200x500_15Q2-1e287111c3e277c60ab350b24c0c3fce.png"></article>]]></description>
+            <link>https://www.algolia.com/</link>
+            <guid isPermaLink="false">7d763697-46d9-43c9-b8ce-9002b46f9f6a</guid>
+            <pubDate>Sat, 07 Nov 2015 22:13:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The World of API's is on The Grid]]></title>
             <description><![CDATA[<article><h1>The World of API's is on The Grid</h1><p>This is the first post on the Grid AI system</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd40610d-78fd-47f2-a0d4-b2c8c6e5b734.jpg"></article>]]></description>
-            <link>undefinedthe-world-of-apis-is-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/api/the-world-of-apis-is-on-the-grid/index.html</link>
             <guid isPermaLink="false">44ad0a9c-857f-4bab-8ca6-7ae775764d3e</guid>
             <pubDate>Thu, 05 Nov 2015 22:29:02 GMT</pubDate>
         </item>
