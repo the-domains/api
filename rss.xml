@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[APIFace is on the Grid]]></title>
+        <description><![CDATA[APIFace is on the Grid]]></description>
+        <link>https://thegrid.ai/api/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 18:31:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/api/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
+            <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154828fdd271b4b3880de356ebcdd8d0bb7be09.png"></article>]]></description>
+            <link>https://www.algolia.com/</link>
+            <guid isPermaLink="false">7d763697-46d9-43c9-b8ce-9002b46f9f6a</guid>
+            <pubDate>Sat, 07 Nov 2015 22:13:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
