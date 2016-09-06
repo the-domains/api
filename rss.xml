@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[APIFace is on the Grid]]></title>
+        <description><![CDATA[APIFace is on the Grid]]></description>
+        <link>https://thegrid.ai/api/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 02 Sep 2016 18:41:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/api/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[API Management and API Strategy Services | Mashery]]></title>
+            <description><![CDATA[<article><h1>API Management and API Strategy Services | Mashery</h1><p>Mashery API Management offerings include strategic consulting and support to help you build your business.</p><img src="https://www.mashery.com/sites/default/files/styles/640x480/public/fields/field_image_logo/cocacola-enterprises.png?itok=XJ4WYxTj"></article>]]></description>
+            <link>http://www.mashery.com</link>
+            <guid isPermaLink="false">7fbef35e-7177-4037-b3f9-0677325aa704</guid>
+            <pubDate>Fri, 02 Sep 2016 18:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API Face]]></title>
+            <description><![CDATA[<article><h1>API Face</h1><p>www.programmableweb.com Google said it plans to shutdown the GData Admin Settings API. It is giving developers one year to migrate to newer tools. The API will cease functioning in August 2017. The Admin Settings API let...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/72102f5813decb652a2a26358f446e39/noop.png?input=https%3A%2F%2Fd197nsfq0bri0.cloudfront.net%2Fpaper_avatars%2Fa7666fad-5a90-4ead-99ff-69e01c27fe63%2Fflqvn3exy9q4si8zwrk3%2Flearnmore-api.png"></article>]]></description>
+            <link>http://apiface.io</link>
+            <guid isPermaLink="false">cf4d0564-9fb4-4f70-b4d8-2badc5cea426</guid>
+            <pubDate>Fri, 02 Sep 2016 18:33:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
